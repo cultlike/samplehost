@@ -1,0 +1,122 @@
+[
+	{
+		"question" : "I _______ the flat tire when I ______ the dent in my car door.",
+		"answers" : [
+			{ "id" : 0, "text" : "changed, noticed" },
+			{ "id" : 1, "text" : "was changing, was noticing" },
+			{ "id" : 2, "text" : "was changing, noticed" },
+			{ "id" : 3, "text" : "changed, was noticing" }
+			
+		],
+		"correct" : 2
+
+	},
+	{
+		"question" : "She ______ her friends outside while she was studying in the library.",
+		"answers" : [
+			{ "id" : 0, "text" : "seen" },
+			{ "id" : 1, "text" : "saw" },
+			{ "id" : 2, "text" : "seeing" },
+			{ "id" : 3, "text" : "was seeing" }
+			
+		],
+		"correct" : 1
+
+	},
+	{
+		"question" : "Yesterday was very cold.  People ______ heavy coats.",
+		"answers" : [
+			{ "id" : 0, "text" : "wear" },
+			{ "id" : 1, "text" : "wore" },
+			{ "id" : 2, "text" : "wearing" },
+			{ "id" : 3, "text" : "were wearing" }
+			
+		],
+		"correct" : 3
+	
+	},
+	{
+		"question" : "We ______ ready to leave when Kevin ______ his mind.",
+		"answers" : [
+			{ "id" : 0, "text" : "getting, changed" },
+			{ "id" : 1, "text" : "got, changing" },
+			{ "id" : 2, "text" : "got, was changing" },
+			{ "id" : 3, "text" : "were getting, changed" }
+			
+		],
+		"correct" : 3
+		
+	},
+	{
+		"question" : "While you ______ fun with your friends, I ______ at home all alone.",
+		"answers" : [
+			{ "id" : 0, "text" : "were having, was sitting" },
+			{ "id" : 1, "text" : "having, sitting" },
+			{ "id" : 2, "text" : "had, was sitting" },
+			{ "id" : 3, "text" : "were having, sat" }
+			
+		],
+		"correct" : 0
+		
+	},
+	{
+		"question" : "Before you ______ here, I ______ on the couch.",
+		"answers" : [
+			{ "id" : 0, "text" : "were getting, was sitting" },
+			{ "id" : 1, "text" : "getting, sitting" },
+			{ "id" : 2, "text" : "were got, sat" },
+			{ "id" : 3, "text" : "got, was sitting" }
+			
+		],
+		"correct" : 3
+		
+	},
+	{
+		"question" : "Kevin was up all night.  What ______ ? ",
+		"answers" : [
+			{ "id" : 0, "text" : "he was doing" },
+			{ "id" : 1, "text" : "was he doing" },
+			{ "id" : 2, "text" : "he did" },
+			{ "id" : 3, "text" : "did he do" }
+			
+		],
+		"correct" : 1
+		
+	},
+	{
+		"question" : "Jean ______ at that restaurant ______ it closed.",
+		"answers" : [
+			{ "id" : 0, "text" : "was working, was closing" },
+			{ "id" : 1, "text" : "worked, closed" },
+			{ "id" : 2, "text" : "working, closed" },
+			{ "id" : 3, "text" : "worked, closing" }
+			
+		],
+		"correct" : 1
+		
+	},
+	{
+		"question" : "She ______ for Google after she ______ school.",
+		"answers" : [
+			{ "id" : 0, "text" : "was working, was finishing" },
+			{ "id" : 1, "text" : "worked, finishing" },
+			{ "id" : 2, "text" : "worked, finished" },
+			{ "id" : 3, "text" : "working, finishing" }
+			
+		],
+		"correct" : 2
+		
+	},
+	{
+		"question" : "The dogs ______ before I ______ in the door. I could hear them outside.",
+		"answers" : [
+			{ "id" : 0, "text" : "were barking, walked" },
+			{ "id" : 1, "text" : "barking, walking" },
+			{ "id" : 2, "text" : "barked, was walking" },
+			{ "id" : 3, "text" : "was barking, walked" }
+			
+		],
+		"correct" : 0
+		
+	}
+]
